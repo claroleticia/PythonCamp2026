@@ -1,4 +1,4 @@
-# Python Short Course - Summer 2025
+# Python Short Course - Summer 2026
 
 Introduction to Python 3 designed for Ph.D. Students in Political Science (WUSTL)
 
@@ -28,7 +28,7 @@ Lecture/Lab: 9AM - 5PM CST
 - All homework due before class (9AM CST).
 - Work together but do NOT copy and paste code.
 - Submit your homework on Github. Commit and comment often. 
-- Direct homework questions to Leticia (who will be grading your assignments). 
+- Direct homework questions to Hongyu (who will be grading your assignments). 
 
 ### Poster Projects: 
 - Show off your python skills with a small project. 
